@@ -36,7 +36,7 @@ git clone https://github.com/ronak922/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Telegram](https://www.telegram.com/spbgmiaccounts).
+If you want to contact me you can reach me at [Telegram](https://www.t.me/spbgmiaccounts).
 
 ## License
 
